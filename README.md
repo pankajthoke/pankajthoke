@@ -14,7 +14,7 @@
 <img align="right" alt="Data Analyst" width="300" src="https://www.crumplab.com/statistics/imgs/gifs/OneWayNull.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pankaj-thoke-4407a92a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pankaj-thoke-4407a92a5" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pankaj-thoke-4407a92a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pankaj-thoke-4407a92a5" height="30" width="40" /></a>
 <a href="https://instagram.com/pankaj_thoke_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pankaj_thoke_1" height="30" width="40" /></a>
 </p>
 
