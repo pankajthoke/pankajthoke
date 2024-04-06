@@ -4,7 +4,7 @@
 <img align="right" alt="Data Analyst" width="400" src="https://preview.redd.it/which-tool-is-used-to-make-deployment-diagrams-animated-v0-9mglchznt9db1.gif?width=1540&auto=webp&s=b355f467c74a1ced5b96a44fb11fc75acc30f67d">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajthoke&label=Profile%20views&color=0e75b6&style=flat" alt="pankajthoke" /> </p>
 
-- 🌱 I’m currently learning **MS Excel, MS Power Bi, My SQL, Tableau, Python...**
+- 🌱 I’m currently learning **MS Excel, Power BI, My SQL, Tableau, Python...**
 
 - 👨‍💻 All of my projects are available at [file:///E:/Pride%20Educare/My%20Projects/Portfolio%20Website/Portfolio-Website-Template-main/index.html](file:///E:/Pride%20Educare/My%20Projects/Portfolio%20Website/Portfolio-Website-Template-main/index.html)
 
@@ -19,7 +19,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+<p align="left"> <a href="https://www.microsoft.com/en/microsoft-365/excel?market=af" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" alt="MS Excel" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="Power BI" width="40" height="40"/> </a>  
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" width="40" height="40"/> </a> </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajthoke&show_icons=true&locale=en&layout=compact" alt="pankajthoke" /></p>
 
