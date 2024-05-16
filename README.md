@@ -40,3 +40,5 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pankajthoke&show_icons=true&locale=en&theme=tokyonight" alt="pankajthoke" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajthoke&theme=tokyonight" alt="pankajthoke" /></p>
+
+<img src="https://raw.githubusercontent.com/pankajthoke/pankajthoke/output/snake.svg" alt="Snake animation" />
